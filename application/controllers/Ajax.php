@@ -70,8 +70,8 @@ class Ajax extends CI_Controller {
 		$config['protocol'] = "smtp";
 		$config['smtp_host'] = "ssl://smtp.gmail.com";
 		$config['smtp_port'] = "465";
-		$config['smtp_user'] = "rifqymuskar@gmail.com"; 
-		$config['smtp_pass'] = "27250311r";
+		$config['smtp_user'] = "email@example.com"; 
+		$config['smtp_pass'] = "your password";
 		$config['mailtype'] = "html";
 		$config['charset'] = "iso-8859-1";
 		$config['newline'] = "\r\n";
